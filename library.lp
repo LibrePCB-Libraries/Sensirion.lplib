@@ -3,7 +3,7 @@
  (description "Digital sensors (inofficial).")
  (keywords "sensirion,humidity,temperature,gas,sensor,sensors")
  (author "LibrePCB")
- (version "0.2.0")
+ (version "0.2.1")
  (created 2018-12-02T16:07:33Z)
  (deprecated false)
  (url "https://github.com/LibrePCB-Libraries/Sensirion.lplib")
