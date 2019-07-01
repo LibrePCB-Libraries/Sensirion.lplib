@@ -4,7 +4,7 @@
 
 Sensors.
 
-Inofficial library, not endorsed by Sensirion AG.
+Unofficial library, not endorsed by Sensirion AG.
 
 ## License
 
