@@ -1,6 +1,6 @@
 (librepcb_library a23a8760-705e-4496-a8f6-213c4b9a4a74
  (name "Sensirion")
- (description "Digital sensors (inofficial).")
+ (description "Digital sensors (unofficial).")
  (keywords "sensirion,humidity,temperature,gas,sensor,sensors")
  (author "LibrePCB")
  (version "0.2.1")
