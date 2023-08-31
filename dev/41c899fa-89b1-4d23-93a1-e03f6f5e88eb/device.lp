@@ -1,5 +1,5 @@
 (librepcb_device 41c899fa-89b1-4d23-93a1-e03f6f5e88eb
- (name "SGP30")
+ (name "Sensirion SGP30")
  (description "Gas sensor for indoor air quality applications.\n\nDatasheet: https://www.sensirion.com/file/datasheet_sgp30/")
  (keywords "gas,voc,tvoc,co2eq,sensor,sensirion")
  (author "Danilo Bargen")
@@ -17,4 +17,9 @@
  (pad a08df5db-0198-47c7-ae67-7f10e4a48d54 (signal 584826f3-c1b8-4fb5-ac7a-22d92cc6d634))
  (pad a189ab0e-0ca1-4f6d-9f45-079070b37a62 (signal 04559af3-eab0-4270-8754-4678e061c646))
  (pad fbe2e430-0073-4f98-940f-8294732392c2 (signal ef6bdf59-ecaa-4b3c-a560-787331effb3c))
+ (attribute "PACKING" (type string) (unit none) (value "T&R 2500"))
+ (part "SGP30" (manufacturer "Sensirion")
+ )
+ (part "1-101646-01" (manufacturer "Sensirion")
+ )
 )

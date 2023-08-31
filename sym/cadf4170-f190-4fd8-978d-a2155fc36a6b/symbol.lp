@@ -39,7 +39,7 @@
   (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)
   (name_align left center)
  )
- (pin b2603be8-5e5f-415c-9026-e2a9ef92b43a (name "nRST")
+ (pin b2603be8-5e5f-415c-9026-e2a9ef92b43a (name "!RST")
   (position -12.7 5.08) (rotation 0.0) (length 2.54)
   (name_position 3.81 0.0) (name_rotation 0.0) (name_height 2.5)
   (name_align left center)

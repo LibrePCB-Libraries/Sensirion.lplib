@@ -1,5 +1,5 @@
 (librepcb_component 2f578e3d-76e4-4d6b-b635-a3041466a377
- (name "SGP I²C")
+ (name "Sensirion SGP I²C")
  (description "Sensirion I²C based multi-pixel gas sensor (e.g. the SGP30 or the SGPC3).")
  (keywords "sensirion,sgp,gas,voc,tvoc,co2,ethanol,h2,digital,i2c")
  (author "Danilo Bargen")

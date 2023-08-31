@@ -1,5 +1,5 @@
 (librepcb_component d847b117-0435-4c71-81aa-3f670d540e6c
- (name "SHTCx")
+ (name "Sensirion SHTCx")
  (description "Digital I²C temperature / humidity sensor.")
  (keywords "temperature,humidity,i2c,shtcx")
  (author "Danilo B.")

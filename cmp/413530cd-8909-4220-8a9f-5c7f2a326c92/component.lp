@@ -1,5 +1,5 @@
 (librepcb_component 413530cd-8909-4220-8a9f-5c7f2a326c92
- (name "SHT2x")
+ (name "Sensirion SHT2x")
  (description "Digital I²C temperature / humidity sensor.\n\nSupply voltage: 2.1 - 3.6 V\nDatasheet: https://www.sensirion.com/sht2x/")
  (keywords "temperature,humidity,i2c,sht2x")
  (author "Danilo B.")

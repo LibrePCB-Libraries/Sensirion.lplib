@@ -1,5 +1,5 @@
 (librepcb_device f5dc3e3e-ff41-45c9-93f2-86052e0178c5
- (name "SGPC3")
+ (name "Sensirion SGPC3")
  (description "Ultra-low power gas sensor for indoor air quality applications.\n\nDatasheet: https://www.sensirion.com/file/datasheet_sgpc3/")
  (keywords "gas,voc,tvoc,sensor,sensirion")
  (author "Danilo Bargen")
@@ -17,4 +17,9 @@
  (pad a08df5db-0198-47c7-ae67-7f10e4a48d54 (signal 584826f3-c1b8-4fb5-ac7a-22d92cc6d634))
  (pad a189ab0e-0ca1-4f6d-9f45-079070b37a62 (signal 04559af3-eab0-4270-8754-4678e061c646))
  (pad fbe2e430-0073-4f98-940f-8294732392c2 (signal ef6bdf59-ecaa-4b3c-a560-787331effb3c))
+ (part "SGPC3" (manufacturer "Sensirion")
+ )
+ (part "1-101647-01" (manufacturer "Sensirion")
+  (attribute "PACKING" (type string) (unit none) (value "T&R 2500"))
+ )
 )
