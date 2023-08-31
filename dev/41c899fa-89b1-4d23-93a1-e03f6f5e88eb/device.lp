@@ -3,7 +3,7 @@
  (description "Gas sensor for indoor air quality applications.\n\nDatasheet: https://www.sensirion.com/file/datasheet_sgp30/")
  (keywords "gas,voc,tvoc,co2eq,sensor,sensirion")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.2")
  (created 2019-11-08T23:24:14Z)
  (deprecated false)
  (generated_by "")

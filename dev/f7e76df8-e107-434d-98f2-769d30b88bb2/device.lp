@@ -3,7 +3,7 @@
  (description "Digital I²C temperature / humidity sensor.\n\nInput voltage: 1.62 - 3.6 V\nTypical accuracy: ±2 %RH and ±0.2 °C\nDatasheet: https://www.sensirion.com/shtc3/")
  (keywords "shtc3,shtcx,sensirion,humidity,temperature")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2019-01-24T21:58:46Z)
  (deprecated false)
  (generated_by "")

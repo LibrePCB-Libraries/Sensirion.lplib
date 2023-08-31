@@ -3,7 +3,7 @@
  (description "Digital I²C temperature / humidity sensor.")
  (keywords "temperature,humidity,i2c,shtcx")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-12-02T19:47:37Z)
  (deprecated false)
  (generated_by "")

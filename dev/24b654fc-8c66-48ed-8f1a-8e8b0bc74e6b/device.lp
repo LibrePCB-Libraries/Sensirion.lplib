@@ -3,7 +3,7 @@
  (description "Digital I²C temperature / humidity sensor. Low-cost version.\n\nInput voltage: 2.1 - 3.6 V\nTypical accuracy: ±3 %RH and ±0.3 °C\nDatasheet: https://www.sensirion.com/sht20/")
  (keywords "sht20,sht2x,sensirion,humidity,temperature")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2019-01-24T22:22:28Z)
  (deprecated false)
  (generated_by "")

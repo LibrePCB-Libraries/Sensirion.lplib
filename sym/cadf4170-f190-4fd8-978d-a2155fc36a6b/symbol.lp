@@ -3,7 +3,7 @@
  (description "7-pin temperature and humidity sensor.")
  (keywords "temperature,humidity,sensor,sht3x")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.2")
  (created 2019-01-24T20:21:16Z)
  (deprecated false)
  (generated_by "")

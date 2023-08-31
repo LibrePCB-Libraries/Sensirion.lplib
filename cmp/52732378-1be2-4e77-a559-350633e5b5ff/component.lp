@@ -3,7 +3,7 @@
  (description "Particulate matter sensor via I²C or UART.\n\nDatasheet: https://www.sensirion.com/sps30/")
  (keywords "sps,particle,particulate,matter,dust,pm0.5,pm1,pm2.5,pm4,pm10,air quality")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.1.1")
  (created 2020-06-08T21:16:17Z)
  (deprecated false)
  (generated_by "")

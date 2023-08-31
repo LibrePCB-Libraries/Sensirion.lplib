@@ -3,7 +3,7 @@
  (description "Sensirion I²C based multi-pixel gas sensor (e.g. the SGP30 or the SGPC3).")
  (keywords "sensirion,sgp,gas,voc,tvoc,co2,ethanol,h2,digital,i2c")
  (author "Danilo Bargen")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-12-02T20:09:12Z)
  (deprecated false)
  (generated_by "")

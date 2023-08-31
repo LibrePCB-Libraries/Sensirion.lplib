@@ -3,7 +3,7 @@
  (description "Digital I²C temperature / humidity sensor.\n\nSupply voltage: 2.1 - 3.6 V\nDatasheet: https://www.sensirion.com/sht2x/")
  (keywords "temperature,humidity,i2c,sht2x")
  (author "Danilo B.")
- (version "0.1")
+ (version "0.1.1")
  (created 2018-12-02T17:38:57Z)
  (deprecated false)
  (generated_by "")
